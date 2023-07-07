@@ -1000,6 +1000,81 @@ section .container {
   background-color: #18d26e;
 }
 
+.portfolio-details .size-card {
+  height: 400px;
+  width: 300;
+}
+
+/* 
+.portfolio-details-1 {
+  padding-top: 40px;
+  background: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+.portfolio-details-1 .container {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.portfolio-details-1 .portfolio-title {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.portfolio-details-1 .portfolio-info {
+  padding-top: 45px;
+}
+
+.portfolio-details-1 .portfolio-info h3 {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.portfolio-details-1 .portfolio-info ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.portfolio-details-1 .portfolio-info ul li+li {
+  margin-top: 10px;
+}
+
+.portfolio-details-1 .portfolio-info p {
+  font-size: 15px;
+  padding: 15px 0 0 0;
+}
+
+@media (max-width: 992px) {
+  .portfolio-details-1 .portfolio-info {
+    padding-top: 20px;
+  }
+}
+
+.portfolio-details-1 .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.portfolio-details-1 .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.portfolio-details-1 .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #18d26e;
+} */
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
